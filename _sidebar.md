@@ -6,6 +6,7 @@
   * [学习更多](https://www.runoob.com/)
 * 关于社团
   * [社团简介](/ProjectDocs/jj.md)
+* 加入我们
   * [QQ频道](https://pd.qq.com/s/63cw709he) 
   * [微信](/ProjectDocs/wechat.md)
     
