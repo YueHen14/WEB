@@ -6,11 +6,6 @@
   * [学习更多](https://www.runoob.com/)
 * 关于社团
   * [社团简介](/ProjectDocs/jj.md)
-* 加入我们
-  * [QQ频道](https://pd.qq.com/s/63cw709he) 
-  * [微信](/ProjectDocs/wechat.md)
-* 关于官网
-  * [意见反馈](https://gitee.com/YueHen14/web/issues)
 ---
 <center> UPdate：9.21 </center>
 
