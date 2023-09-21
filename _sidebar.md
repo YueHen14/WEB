@@ -8,5 +8,5 @@
   * [社团简介](/ProjectDocs/jj.md)
 ---
 <center> UPdate：9.21 </center>
-Email：<yuehenzhishuang@gmail.com>
+📩:yuehenzhishuang@gmail.com
 
