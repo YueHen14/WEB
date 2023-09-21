@@ -9,6 +9,5 @@
 * 加入我们
   * [QQ频道](https://pd.qq.com/s/63cw709he) 
   * [微信](/ProjectDocs/wechat.md)
----
-# <UPdate：9.21>
+<center> UPdate：9.21 </center>
 
