@@ -7,5 +7,5 @@
 * 关于社团
   * [社团简介](/ProjectDocs/jj.md)
 ---
-<center> UPdate：9.21 </center>
+<center> UPdate：9.24 </center>
 <center> 📩:yuehenzhishuang@gmail.com </center>
