@@ -6,7 +6,7 @@
   * [学习更多](https://gitee.com/qysz-jsjxh/Teaching-Library/tree/main/Markdown/%E6%97%A5%E5%B8%B8%E5%B7%A5%E5%85%B7%E7%9A%84%E5%BA%94%E7%94%A8)
   
 * 关于社团
-  * [社团简介](/ProjectDocs/jj.md)
+  * [社团简介](/ProjectDocs/jianjie.md)
 ---
 <center> Last update Time：2024.05.16 </center>
 <center> 📩:yuehenzhishuang@gmail.com </center>
